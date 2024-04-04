@@ -1,0 +1,21 @@
+h1 {
+    text-align: center;
+    background-color: lightpink;
+    width: 500px;
+    margin: 1rem auto;
+}
+
+ul {
+    background-color: lightblue;
+    width: 500px;
+    height: 40px;
+    margin: 1rem auto;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+
+li {
+    list-style-image: url("./image/롤아이콘.png");
+    align-items: center;
+}

@@ -1,0 +1,24 @@
+h1 {
+    background-color: lightpink;
+    width: 500px;
+    margin: 1rem auto;
+    text-align: center;
+}
+
+form {
+    background-color: lightblue;
+    width: 500px;
+    margin: 1rem auto;
+    display: flex;
+    justify-content: space-around;
+}
+
+select {
+    width: 200px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: lightgreen;
+    text-align: center;
+    font-size: 20px;
+}
+
